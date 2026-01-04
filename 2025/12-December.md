@@ -302,6 +302,18 @@
 
 ## Итого: 8 ч
 
-8 часов https://jira.berezka-tender.ru/browse/EAT2-26015
+# 2025-12-30
+
+## Задачи
+
+### Березка
+
+- Тип задачи: Документирование требований
+- Ссылка: [EAT2-26015](https://jira.berezka-tender.ru/browse/EAT2-26015)
+- Описание: Описание состава релиза 2.74.0
+- Время: 8 ч
+
+## Итого: 8 ч
+
 4 часа https://jira.berezka-tender.ru/browse/EAT2-26017
 1 час https://jira.berezka-tender.ru/browse/EAT2-26018
