@@ -269,8 +269,19 @@
 
 ## Итого: 8 ч
 
-8 часов https://jira.berezka-tender.ru/browse/EAT2-26006
-8 часов https://jira.berezka-tender.ru/browse/EAT2-26007
+# 2025-12-19
+
+## Задачи
+
+### Березка
+
+- Тип задачи: Написание release notes
+- Ссылка: [EAT2-26007](https://jira.berezka-tender.ru/browse/EAT2-26007)
+- Описание: Подготовка краткой информации по обновлению 2.73.4
+- Время: 8 ч
+
+## Итого: 8 ч
+
 4 часа https://jira.berezka-tender.ru/browse/EAT2-26008
 8 часов https://jira.berezka-tender.ru/browse/EAT2-26015
 4 часа https://jira.berezka-tender.ru/browse/EAT2-26016
