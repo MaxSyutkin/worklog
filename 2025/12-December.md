@@ -247,4 +247,20 @@
 - Описание: Подготовка pdf-версий 2.73.3 и актуализация wiki
 - Время: 1 ч
 
-## Итого: 6 ч
+### Березка
+
+- Тип задачи: Актуализация документации
+- Ссылка: [EAT2-26005](https://jira.berezka-tender.ru/browse/EAT2-26005)
+- Описание: Описание состава релиза 2.73.4
+- Время: 2 ч
+
+## Итого: 8 ч
+
+8 часов https://jira.berezka-tender.ru/browse/EAT2-26006
+8 часов https://jira.berezka-tender.ru/browse/EAT2-26007
+4 часа https://jira.berezka-tender.ru/browse/EAT2-26008
+8 часов https://jira.berezka-tender.ru/browse/EAT2-26015
+4 часа https://jira.berezka-tender.ru/browse/EAT2-26016
+4 часа https://jira.berezka-tender.ru/browse/EAT2-26017
+1 час https://jira.berezka-tender.ru/browse/EAT2-26018
+39 
