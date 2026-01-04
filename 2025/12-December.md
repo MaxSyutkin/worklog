@@ -282,9 +282,26 @@
 
 ## Итого: 8 ч
 
-4 часа https://jira.berezka-tender.ru/browse/EAT2-26008
+# 2025-12-29
+
+## Задачи
+
+### Березка
+
+- Тип задачи: Актуализация документации
+- Ссылка: [EAT2-26008](https://jira.berezka-tender.ru/browse/EAT2-26008)
+- Описание: Корректировка руководства пользователя Заказчика. Проведение закупок на ЕАТ
+- Время: 4 ч
+
+### Березка
+
+- Тип задачи: Написание release notes
+- Ссылка: [EAT2-26016](https://jira.berezka-tender.ru/browse/EAT2-26016)
+- Описание: Подготовка новости по обновлению 2.74.0
+- Время: 4 ч
+
+## Итого: 8 ч
+
 8 часов https://jira.berezka-tender.ru/browse/EAT2-26015
-4 часа https://jira.berezka-tender.ru/browse/EAT2-26016
 4 часа https://jira.berezka-tender.ru/browse/EAT2-26017
 1 час https://jira.berezka-tender.ru/browse/EAT2-26018
-39 
